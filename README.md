@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working in Orbaiceta & Aldaba Architects, a firm that I started with a good friend, and that has won international design prized 😁
+
 <!--
 **luisorbaiceta/luisorbaiceta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

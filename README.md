@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-### Last built and designed website
-[Orbaiceta & Aldaba](https://www.orbaiceta-aldaba.com/)
+### Last built and designed website: [Orbaiceta & Aldaba](https://www.orbaiceta-aldaba.com/)
 
 <!--
 - 🔭 I’m currently working on ...

@@ -2,8 +2,6 @@
 
 My name is Luis and I'm an architect from Spain. With my passion for great design and memorable user experiences, comes a lot of dedication to software development and a huge curiosity for new technologies.
 
-I typed my first line of code with my father at the age of 7 and haven't had the time to stop since then 😂
-
 - 🔭 I’m currently working in [Orbaiceta & Aldaba](https://www.orbaiceta-aldaba.com/)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - 💬 Ask me about Architecture and Design

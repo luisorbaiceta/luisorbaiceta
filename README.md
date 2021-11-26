@@ -7,7 +7,7 @@ My name is Luis and I'm an architect from Spain. With my passion for great desig
 - 💬 Ask me about Architecture and Design
 - ⚡ Fun fact: I had to add this fun fact because people thought I'm a software architect, but I'm actually a [building]() architect 😉
 
-### Motto: *Less is more*
+### *Less is more*
 
 ### Our last project ([More Info](https://www.orbaiceta-aldaba.com/projects/polideportivo-en-buztintxuri)):
 ![Sports Center](https://www.orbaiceta-aldaba.com/_next/image?url=https%3A%2F%2Foral-web.s3.eu-west-3.amazonaws.com%2FLateral_850b1a822e.jpg&w=1920&q=75)

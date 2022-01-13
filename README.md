@@ -5,7 +5,6 @@ My name is Luis and I'm an architect from Spain. With my passion for great desig
 - 🔭 I’m currently working in [Orbaiceta & Aldaba](https://www.orbaiceta-aldaba.com/)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - 💬 Ask me about Architecture and Design
-- ⚡ Fun fact: I had to add this fun fact because people thought I'm a software architect, but I'm actually a [building]() architect 😉
 
 ### *Less is more*
 
